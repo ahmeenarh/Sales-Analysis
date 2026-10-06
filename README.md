@@ -12,7 +12,7 @@ The objective is to transform sales data into actionable insights that support b
 
 ## Dashboard Preview
 
-![Sales Analysis Dashboard](images/sales-analysis-dashboard.png)
+![Sales Analysis Dashboard](https://github.com/ahmeenarh/Sales-Analysis/blob/main/Sales%20analysis%20dashboard.png)
 
 ## Key Performance Indicators
 
